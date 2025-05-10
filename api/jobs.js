@@ -1,4 +1,3 @@
-// server/src/routes/jobs.js
 import express from 'express';
 import { PrismaClient } from '../generated/prisma/index.js';
 import { getAuth } from '@clerk/express';

@@ -1,4 +1,4 @@
-// server/api/user.js
+
 import express from 'express';
 import { PrismaClient } from '../generated/prisma/index.js';
 import { getAuth } from '@clerk/express';
